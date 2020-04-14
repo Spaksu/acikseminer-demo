@@ -1,7 +1,9 @@
-# acikseminer-demo
+![Spaksu Logo](https://www.spaksu.com/wp-content/uploads/2017/11/spaksulogoblognormal.png)
 
-bu bir seminer denemesidir.
+# acikseminer-demo (Spaksu's Fork)
+
+Bu bir seminer denemesidir. 
 
 Seminer içi fork denemesidir.
 
-![Spaksu Logo](https://www.spaksu.com/wp-content/uploads/2017/04/spaksulogoblog.png)
+
